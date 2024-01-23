@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassDiagramDesign.AiPlayer">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAEACAAAEAAQACABAg=</HashCode>
+      <FileName>AiPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.Player1">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAQAQACABAg=</HashCode>
+      <FileName>Player1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.Player2">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAEAAQACABAg=</HashCode>
+      <FileName>Player2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.Program">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.Player">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQACABAg=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.GameSettings">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAgAA=</HashCode>
+      <FileName>GameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.Feedback">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAIBAAAAAAAAAAAAAAAAIAAAAQgBAAAAAAAA=</HashCode>
+      <FileName>Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagramDesign.GuessLibary">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAABAAAAEAAQAAAAAAAAA=</HashCode>
+      <FileName>GuessLibary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

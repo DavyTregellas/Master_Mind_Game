@@ -1,0 +1,89 @@
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+C:\Users\Davy\Documents\01-University\OOP Excersises\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
+D:\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+D:\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+D:\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+D:\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+D:\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.AssemblyReference.cache
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+D:\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.AssemblyReference.cache
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+C:\Users\KS222\Desktop\MasterMindA2Davy\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.AssemblyReference.cache
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+D:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.AssemblyReference.cache
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+E:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.exe
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.deps.json
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.runtimeconfig.json
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.dll
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\bin\Debug\net6.0\ClassDiagramDesign.pdb
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.GeneratedMSBuildEditorConfig.editorconfig
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfoInputs.cache
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.AssemblyInfo.cs
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.csproj.CoreCompileInputs.cache
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.dll
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\refint\ClassDiagramDesign.dll
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.pdb
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ClassDiagramDesign.genruntimeconfig.cache
+F:\MasterMindDONE\ClassDiagramDesign\ClassDiagramDesign\obj\Debug\net6.0\ref\ClassDiagramDesign.dll
